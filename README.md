@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @damtung2000
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning C++ at a very basic level
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 You can reach me at damtung2000@gmail.com
 
