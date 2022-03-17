@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @damtung2000
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and Javascript
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 You can reach me at damtung2000@gmail.com
 
