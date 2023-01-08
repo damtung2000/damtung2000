@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damtung2000
-- 👀 I’m interested in Python and Javascript
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in Python and Javascript/Typescript
+- 🏢 I have experience in React, Vue, and Java Spring Boot
 - 📫 You can reach me at damtung2000@gmail.com
 
 <!---
